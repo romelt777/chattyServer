@@ -14,6 +14,10 @@ node server.js
 ```
 
 
+[Install and run ChattyApp ](https://github.com/romelt777/chattyApp)
+
+
+
 ### Photos of Project
 
 - User changing username
