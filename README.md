@@ -33,7 +33,7 @@ node server.js
 ![](https://github.com/romelt777/chattyApp/blob/master/docs/newMessagePic.png)
 
 - Users disconnected
-![](https://github.com/romelt777/chattyApp/blob/master/docs/usersDisconnect.png)
+![](https://github.com/romelt777/chattyApp/blob/master/docs/usersDIsconnect.png)
 
 
 
